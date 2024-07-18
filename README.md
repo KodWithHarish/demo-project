@@ -1,3 +1,4 @@
 # demo-project
+
 this is for the practice<br/>
-Author -- Harish Kumbhar
+Author -- Harish S Kumbhar
